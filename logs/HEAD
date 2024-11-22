@@ -1,0 +1,43 @@
+0000000000000000000000000000000000000000 b53097609fbf7706a9b89cb9064c8037ae218840 Kashish Pratap <kashishpratap4@gmail.com> 1728459913 +0530	commit (initial): Added new file
+b53097609fbf7706a9b89cb9064c8037ae218840 768ccbc2de50a9a2480819d6fdb3ebc7a52de5c4 Kashish Pratap <kashishpratap4@gmail.com> 1728488445 +0530	commit: Adding Initial files
+768ccbc2de50a9a2480819d6fdb3ebc7a52de5c4 5492508ac65731de949fb64563208964de4940bb Kashish Pratap <kashishpratap4@gmail.com> 1728489323 +0530	commit: modified changes
+5492508ac65731de949fb64563208964de4940bb 5492508ac65731de949fb64563208964de4940bb Kashish Pratap <kashishpratap4@gmail.com> 1728892944 +0530	checkout: moving from master to new_feature
+5492508ac65731de949fb64563208964de4940bb 5492508ac65731de949fb64563208964de4940bb Kashish Pratap <kashishpratap4@gmail.com> 1728893214 +0530	reset: moving to HEAD
+5492508ac65731de949fb64563208964de4940bb 5492508ac65731de949fb64563208964de4940bb Kashish Pratap <kashishpratap4@gmail.com> 1728979175 +0530	checkout: moving from new_feature to master
+5492508ac65731de949fb64563208964de4940bb 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728979382 +0530	commit: Adding student details
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728979639 +0530	reset: moving to HEAD
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728979687 +0530	checkout: moving from master to new
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728979688 +0530	reset: moving to HEAD
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728979726 +0530	checkout: moving from new to master
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728979787 +0530	checkout: moving from master to newbranch
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 5492508ac65731de949fb64563208964de4940bb Kashish Pratap <kashishpratap4@gmail.com> 1728979853 +0530	checkout: moving from newbranch to student
+5492508ac65731de949fb64563208964de4940bb 5492508ac65731de949fb64563208964de4940bb Kashish Pratap <kashishpratap4@gmail.com> 1728979854 +0530	reset: moving to HEAD
+5492508ac65731de949fb64563208964de4940bb 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728979917 +0530	checkout: moving from student to newbranch
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728980080 +0530	checkout: moving from newbranch to master
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728980120 +0530	checkout: moving from master to newbranch
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 5492508ac65731de949fb64563208964de4940bb Kashish Pratap <kashishpratap4@gmail.com> 1728980200 +0530	checkout: moving from newbranch to student
+5492508ac65731de949fb64563208964de4940bb 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728980352 +0530	checkout: moving from student to master
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728980432 +0530	reset: moving to HEAD
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728980470 +0530	checkout: moving from master to newbranch
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728980470 +0530	reset: moving to HEAD
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728980488 +0530	checkout: moving from newbranch to master
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728980616 +0530	reset: moving to HEAD
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1728980710 +0530	reset: moving to HEAD
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 1d5108f1ba19b59e8fe1260f4a16cc53645d5133 Kashish Pratap <kashishpratap4@gmail.com> 1732175047 +0530	checkout: moving from master to master
+1d5108f1ba19b59e8fe1260f4a16cc53645d5133 d8c69fee8ef1534b4f84f314317de13792d81b88 Kashish Pratap <kashishpratap4@gmail.com> 1732175233 +0530	commit: Commit by Master
+d8c69fee8ef1534b4f84f314317de13792d81b88 d8c69fee8ef1534b4f84f314317de13792d81b88 Kashish Pratap <kashishpratap4@gmail.com> 1732175260 +0530	checkout: moving from master to Details
+d8c69fee8ef1534b4f84f314317de13792d81b88 72cfe076285140a31b60663ee682e8b4032bae58 Kashish Pratap <kashishpratap4@gmail.com> 1732175296 +0530	commit: Commit by Details
+72cfe076285140a31b60663ee682e8b4032bae58 d8c69fee8ef1534b4f84f314317de13792d81b88 Kashish Pratap <kashishpratap4@gmail.com> 1732175329 +0530	checkout: moving from Details to master
+d8c69fee8ef1534b4f84f314317de13792d81b88 426b24a783c4c3c2fe57ccafa885d91892f8e5e4 Kashish Pratap <kashishpratap4@gmail.com> 1732175424 +0530	commit: Commit by Master
+426b24a783c4c3c2fe57ccafa885d91892f8e5e4 72cfe076285140a31b60663ee682e8b4032bae58 Kashish Pratap <kashishpratap4@gmail.com> 1732175450 +0530	checkout: moving from master to Details
+72cfe076285140a31b60663ee682e8b4032bae58 cd63e869ba73e0654c1e9d46cb6df2802d44c95e Kashish Pratap <kashishpratap4@gmail.com> 1732175475 +0530	commit: Commit by Details
+cd63e869ba73e0654c1e9d46cb6df2802d44c95e 426b24a783c4c3c2fe57ccafa885d91892f8e5e4 Kashish Pratap <kashishpratap4@gmail.com> 1732175541 +0530	rebase (start): checkout master
+426b24a783c4c3c2fe57ccafa885d91892f8e5e4 cd63e869ba73e0654c1e9d46cb6df2802d44c95e Kashish Pratap <kashishpratap4@gmail.com> 1732175657 +0530	rebase (abort): returning to refs/heads/Details
+cd63e869ba73e0654c1e9d46cb6df2802d44c95e 426b24a783c4c3c2fe57ccafa885d91892f8e5e4 Kashish Pratap <kashishpratap4@gmail.com> 1732175873 +0530	checkout: moving from Details to master
+426b24a783c4c3c2fe57ccafa885d91892f8e5e4 93bb7f0478f2e5b4b6e54368e325efc0022ab6a2 Kashish Pratap <kashishpratap4@gmail.com> 1732176457 +0530	commit: Commit by Master
+93bb7f0478f2e5b4b6e54368e325efc0022ab6a2 ae5d4599cccf33fd17e23f6697316ee3f0c023fd Kashish Pratap <kashishpratap4@gmail.com> 1732176495 +0530	commit: Commit by Details
+ae5d4599cccf33fd17e23f6697316ee3f0c023fd 4d917d62cdd363c235eab802fb9da3f7e08cc4cd Kashish Pratap <kashishpratap4@gmail.com> 1732176525 +0530	commit: Commit by Master
+4d917d62cdd363c235eab802fb9da3f7e08cc4cd cd63e869ba73e0654c1e9d46cb6df2802d44c95e Kashish Pratap <kashishpratap4@gmail.com> 1732176531 +0530	checkout: moving from master to Details
+cd63e869ba73e0654c1e9d46cb6df2802d44c95e 9671d6c741e720a4b65c77580da9cb59162b2b4f Kashish Pratap <kashishpratap4@gmail.com> 1732176538 +0530	commit: Commit by Details
+9671d6c741e720a4b65c77580da9cb59162b2b4f 9671d6c741e720a4b65c77580da9cb59162b2b4f Kashish Pratap <kashishpratap4@gmail.com> 1732176546 +0530	checkout: moving from Details to Details
+9671d6c741e720a4b65c77580da9cb59162b2b4f 4d917d62cdd363c235eab802fb9da3f7e08cc4cd Kashish Pratap <kashishpratap4@gmail.com> 1732176553 +0530	rebase (start): checkout master
